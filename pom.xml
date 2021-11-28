@@ -19,7 +19,7 @@
         <module>parent-dao</module>
         <module>parent-service</module>
         <module>parent-web</module>
-        <module>partent-model</module>
+        <module>parent-model</module>
     </modules>
 
     <properties>
